@@ -2,6 +2,8 @@
 
 > What will it be?
 
+![](https://i.imgur.com/NOq0HKr.gif)
+
 # install
 
 ```shell
