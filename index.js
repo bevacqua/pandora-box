@@ -11,7 +11,6 @@ Array.prototype.flatMap = function (fn, ctx) {
     return k.concat(fn.call(ctx, v));
   }, []);
 };
-var box = void 0;
 function find(host) {
   var visited = arguments.length <= 1 || arguments[1] === undefined ? new Set() : arguments[1];
 

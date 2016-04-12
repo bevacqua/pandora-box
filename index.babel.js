@@ -1,7 +1,6 @@
 Array.prototype.flatMap = function(fn, ctx) {
   return this.reduce((k, v) => k.concat(fn.call(ctx, v)), []);
 };
-let box;
 export function find (host, visited = new Set()) {
   visited.add(host);
   return host

@@ -4,7 +4,7 @@
   "description": "What will it be?",
   "main": "index.js",
   "scripts": {
-    "build": "babel index.babel --presets es2015 > index.js"
+    "build": "babel index.babel.js --presets es2015 > index.js"
   },
   "author": "Nicolás Bevacqua <nicolasbevacqua@gmail.com> (https://ponyfoo.com)",
   "license": "MIT",
