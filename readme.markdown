@@ -24,6 +24,8 @@ Returns an `(...args) => fn(...args)` function that executes a random method in 
 
 because.
 
+![](./madness.gif)
+
 # license
 
 mit
